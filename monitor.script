@@ -1,0 +1,12 @@
+[Unit]
+Description=My Email sending Code On Laptop Power onn
+
+[Service]
+ExecStart=/usr/bin/python3.11 /usr/local/bin/monitor.py
+WorkingDirectory=/usr/local/bin
+Restart=no
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
+
