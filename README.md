@@ -1,6 +1,8 @@
 Certainly! Here's the README.md file in code format:
 
-https://youtu.be/-Q6lrL8gPnA?si=RQ6cL4NNKEmweE6d
+Complete Tutorial
+
+[![Watch the video](https://img.youtube.com/vi/-Q6lrL8gPnA/0.jpg)](https://www.youtube.com/watch?v=-Q6lrL8gPnA)
 
 # Linux Monitoring System
 
