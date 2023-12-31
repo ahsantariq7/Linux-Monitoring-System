@@ -1,6 +1,6 @@
 Certainly! Here's the README.md file in code format:
 
-```markdown
+
 # Linux Monitoring System
 
 ## Introduction
